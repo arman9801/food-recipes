@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4">
-            We're dedicated to bringing you the most mouthwatering and unique
+            We are dedicated to bringing you the most mouthwatering and unique
             recipes from up-and-coming talent. Our platform features a diverse
             range of dishes, from traditional comfort food to international
             fusion cuisine..

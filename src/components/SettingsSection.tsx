@@ -62,7 +62,7 @@ export default function SettingsSection() {
         </svg>
       </div>
       <p className="mt-2">
-        Can't remember your current password.{" "}
+        Can not remember your current password.{" "}
         <a
           className="text-sm font-semibold text-[#b4a2c6] underline decoration-2"
           href="#"
